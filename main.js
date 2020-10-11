@@ -43,3 +43,6 @@ factorial(10)
 // in javascript, when functions get called, it stacked one on top of the other and 
 // when finished the the outermost fn on the top > get returned first 
 // SO THAT 1 returned first then 2, and 3... etc
+
+// feel free to play around 
+// https://codesandbox.io/s/excutioncontext-stackingjs-57vto?file=/src/index.js:0-1467
